@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lgome\Desktop\JAVA\Eclipse\curso-java-basico_25_02\Number Format\.metadata\.plugins\org.eclipse.jdt.core
+914225706.index
+1865797976.index
+760091825.index
